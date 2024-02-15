@@ -2,7 +2,7 @@
 <body>
 <h2 style="color: green">Hi Guys Good Morning!!</h2>
 <h2 style="color: green">Welcome to RAM Tchnologies Bangalore!!</h2>
-<h2 style="color: Blue">New Batch Starts on monday!!</h2>
+<h2 style="color: Blue">New Batch Starts on 19th Febrauary 2024!!</h2>
 <h2 style="color: Red">Please Refer your Friends and Colleagues</h2>
 <h2 style="color: Red">Thanksyou!!</h2>
 </body>
